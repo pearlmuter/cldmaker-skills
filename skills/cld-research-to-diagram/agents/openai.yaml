@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research to CLD"
+  short_description: "Turn research into evidence-based CLDs"
+  default_prompt: "Use $cld-research-to-diagram to research this system and build an evidence-based CLD in CLDMaker."

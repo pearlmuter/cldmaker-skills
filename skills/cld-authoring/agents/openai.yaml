@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLD Authoring"
+  short_description: "Build reliable causal loop diagrams"
+  default_prompt: "Use $cld-authoring to create or edit this causal loop diagram in CLDMaker."
