@@ -1,6 +1,6 @@
 # CLDMaker Agent Skills
 
-Portable skills for researching, creating, and auditing causal loop diagrams with [CLDMaker](https://github.com/pearlmuter/CLDMaker).
+Portable skills for researching, creating, and auditing causal loop diagrams with [CLDMaker](https://github.com/pearlmuter/cld-maker).
 
 The repository follows the open [Agent Skills specification](https://agentskills.io/specification) and contains:
 
